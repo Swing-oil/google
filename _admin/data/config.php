@@ -1,6 +1,6 @@
 <?php return array (
   'password' => '7ghost',
-  'host' => 'https://www.google.com/',
+  'host' => 'http://www.google.com/',
   'replaceDomain' => '0',
   'relativeHTML' => '0',
   'relativeCSS' => '0',
